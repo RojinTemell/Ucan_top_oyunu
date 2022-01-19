@@ -8,3 +8,13 @@ C:\Users\Lenovo\Desktop\c# projeler\Ucan_top_oyunu\Ucan_top_oyunu\obj\Debug\Ucan
 C:\Users\Lenovo\Desktop\c# projeler\Ucan_top_oyunu\Ucan_top_oyunu\obj\Debug\Ucan_top_oyunu.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\Desktop\c# projeler\Ucan_top_oyunu\Ucan_top_oyunu\obj\Debug\Ucan_top_oyunu.exe
 C:\Users\Lenovo\Desktop\c# projeler\Ucan_top_oyunu\Ucan_top_oyunu\obj\Debug\Ucan_top_oyunu.pdb
+C:\Users\Lenovo\Desktop\c# projeler2\Ucan_top_oyunu\Ucan_top_oyunu\bin\Debug\Ucan_top_oyunu.exe.config
+C:\Users\Lenovo\Desktop\c# projeler2\Ucan_top_oyunu\Ucan_top_oyunu\bin\Debug\Ucan_top_oyunu.exe
+C:\Users\Lenovo\Desktop\c# projeler2\Ucan_top_oyunu\Ucan_top_oyunu\bin\Debug\Ucan_top_oyunu.pdb
+C:\Users\Lenovo\Desktop\c# projeler2\Ucan_top_oyunu\Ucan_top_oyunu\obj\Debug\Ucan_top_oyunu.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\c# projeler2\Ucan_top_oyunu\Ucan_top_oyunu\obj\Debug\Ucan_top_oyunu.Form1.resources
+C:\Users\Lenovo\Desktop\c# projeler2\Ucan_top_oyunu\Ucan_top_oyunu\obj\Debug\Ucan_top_oyunu.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\c# projeler2\Ucan_top_oyunu\Ucan_top_oyunu\obj\Debug\Ucan_top_oyunu.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\c# projeler2\Ucan_top_oyunu\Ucan_top_oyunu\obj\Debug\Ucan_top_oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\c# projeler2\Ucan_top_oyunu\Ucan_top_oyunu\obj\Debug\Ucan_top_oyunu.exe
+C:\Users\Lenovo\Desktop\c# projeler2\Ucan_top_oyunu\Ucan_top_oyunu\obj\Debug\Ucan_top_oyunu.pdb
